@@ -1,0 +1,16 @@
+current directory: /home/abhijit/Projects/interview_coding/incubyte/user_api/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+/home/abhijit/.rbenv/versions/3.0.0/bin/ruby -I /home/abhijit/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20230208-59732-mn1odc.rb extconf.rb
+creating Makefile
+
+current directory: /home/abhijit/Projects/interview_coding/incubyte/user_api/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/abhijit/Projects/interview_coding/incubyte/user_api/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/abhijit/Projects/interview_coding/incubyte/user_api/vendor/bundle/ruby/3.0.0/gems/debug-1.7.1/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230208-59732-z4y88l/debug
